@@ -5,9 +5,9 @@ const bearCams = [
   { id: 1, name: "Brooks Falls", url: "https://www.youtube.com/embed/73-EekdVVU8?autoplay=1&mute=1" },
   { id: 2, name: "Lower River", url: "https://www.youtube.com/embed/UHgF74ieHUM?autoplay=1&mute=1" },
   { id: 3, name: "Riffles", url: "https://www.youtube.com/embed/LM1YPBWn5jQ?autoplay=1&mute=1" },
-  { id: 4, name: "Falls Platform", url: "https://www.youtube.com/embed/-W_CTboaB4A?autoplay=1&mute=1" },
-  { id: 5, name: "River Watch", url: "https://www.youtube.com/embed/vZ1e_m8Tl04?autoplay=1&mute=1" },
-  { id: 6, name: "Falls Trail", url: "https://www.youtube.com/embed/pfH8hlk2fUc?autoplay=1&mute=1" }
+  { id: 4, name: "River Watch", url: "https://www.youtube.com/embed/-W_CTboaB4A?autoplay=1&mute=1" },
+  { id: 5, name: "Kat's River View", url: "https://www.youtube.com/embed/vZ1e_m8Tl04?autoplay=1&mute=1" },
+  { id: 6, name: "Underwater Cam", url: "https://www.youtube.com/embed/pfH8hlk2fUc?autoplay=1&mute=1" }
 ];
 
 function App() {
