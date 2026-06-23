@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/katmai-bear-cams/static/css/main.f73dd78f.css",
-    "main.js": "/katmai-bear-cams/static/js/main.ca04368e.js",
+    "main.js": "/katmai-bear-cams/static/js/main.a156653d.js",
     "static/js/453.6b11bb9f.chunk.js": "/katmai-bear-cams/static/js/453.6b11bb9f.chunk.js",
     "index.html": "/katmai-bear-cams/index.html",
     "main.f73dd78f.css.map": "/katmai-bear-cams/static/css/main.f73dd78f.css.map",
-    "main.ca04368e.js.map": "/katmai-bear-cams/static/js/main.ca04368e.js.map",
+    "main.a156653d.js.map": "/katmai-bear-cams/static/js/main.a156653d.js.map",
     "453.6b11bb9f.chunk.js.map": "/katmai-bear-cams/static/js/453.6b11bb9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f73dd78f.css",
-    "static/js/main.ca04368e.js"
+    "static/js/main.a156653d.js"
   ]
 }
